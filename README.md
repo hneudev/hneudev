@@ -59,7 +59,7 @@ Currently based in the Sonoran Desert of Mexico, I'm a developer with a strong i
 
 ```shell
 echo "Reach out to me on any of the links above"
-echo "Do check my website https://hneu.dev for more info"
+echo "Do check my website https://www.hneu.dev for more info"
 ```
 
 ### Work experience 👔
