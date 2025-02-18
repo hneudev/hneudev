@@ -12,26 +12,26 @@ const aboutMe = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   technologies: {
     frontEnd: {
-      js: ['Reactjs', 'Nextjs', 'jquery', 'Redux Toolkit', 'Axios', 'Http/Ajax'],
-      css: ['MaterialUI', 'Bootstrap', 'Tailwind', 'shadcn', 'ChakraUI', 'Sass'],
+      js: ['Reactjs', 'Nextjs', 'Astro', 'Redux Toolkit', 'Axios', 'Http/Ajax'],
+      css: ['TailwindCSS','MaterialUI', 'Bootstrap', 'Tailwind', 'shadcn', 'ChakraUI', 'Sass'],
     },
     backEnd: {
       python: ['Django'],
       js: ['Nodejs', 'Express', 'Nextjs'],
     },
-    databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
+    databases: [ 'GraphQL', 'MongoDB', 'PostgreSQL', 'MySQL', 'SQL Server'],
   },
-  currentOccupation: ['Fullstack Developer in Softtek'],
-  challenge: "I'm working every day on learn more and be better.",
+  currentOccupation: ['Frontend Developer'],
+  challenge: "I'm working every day to learn more and improve my skills.",
   currentLearning: {
     fullStackWebDevelopment: {
-      frontEnd: '60%',
-      backEnd: '60%',
-      database: '50%',
+      frontEnd: '80%',
+      backEnd: '70%',
+      database: '60%',
     },
     cloudPractitionerResources: {
-      Azure: '50%',
-      AWS: '50%',
+      Azure: '60%',
+      AWS: '60%',
     },
   },
 };
@@ -39,21 +39,22 @@ const aboutMe = {
 
 ## Abstract
 
-Currently based in the Sonoran Desert of Mexico, I'm a developer with a strong interest in new technologies and a passion for learning. I enjoy using my coding skills to find creative solutions to real-world problems.
+Currently based in the Sonoran Desert of Mexico, I'm a developer with a strong interest in new technologies and a passion for learning. I specialize in building modern, performant, and scalable web applications, with a focus on frontend development.
 
-- I’m currently learning a bit of Cloud Resources.
+- I’m currently enhancing my knowledge of cloud resources (AWS & Azure).
 - I can help you with career guidance.
 - I enjoy going out to the movies with my family.
-- I love all kind of tacos 🥴🌮
+- I love all kinds of tacos 🥴🌮
 
 ### Skills 🛠️
 
-| _Name \ Familiarity_       | High                       | Medium                                 | Low                  |
-| -------------------------- | -------------------------- | -------------------------------------- | -------------------- |
-| **Languages(programming)** | JavaScript · Typescript    | Python · SQL · Bash                    | PHP · Java · GraphQL |
-| **Frameworks/Platforms**   | NodeJs · ReactJs · NextJs  | Git · RTK · Django · AWS · AzureDevOps | VueJs · Angular      |
-| **Languages(human)**       | Spanish                    | English                                | Deutsch              |
-| **Other interests**        | Comics · Learning · Guitar | Videogames · Piano                     | Hardware ·           |
+
+| *Name \ Familiarity*        | High                       | Medium                                 | Low                  |
+| --------------------------- | -------------------------- | -------------------------------------- | -------------------- |
+| **Languages (programming)** | JavaScript · TypeScript    | Python · SQL · Bash                    | PHP · Java           |
+| **Frameworks/Platforms**    | Next.js · React.js · Astro | Node.js · Django · Vue.js              | Angular              |
+| **Languages (human)**       | Spanish                    | English                                | Deutsch              |
+| **Other interests**         | Comics · Learning · Guitar | Videogames · Piano                     | Hardware             |
 
 ## How to run
 
@@ -64,12 +65,16 @@ echo "Do check my website https://www.hneu.dev for more info"
 
 ### Work experience 👔
 
-| Job Position                              | Company        | Tech Stack                                                                                                                                                                                                                                                                             | Work Period          |
-| ----------------------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| **Fullstack Developer**                   | **Softtek**    | **JavaScript · Contentful · Agile Methodologies · Commerce Tools · Git · React.js · SASS · Gitlab · Jira · CSS · HTML · Next.js · Jest · Material-UI · Microsoft Visual Studio Code · E-Commerce · Node.js · Front-End Development · GTM · NodeJS · AWS · GitLab · AzureDevOps · RTK** | **2022 — until now** |
-| Fullstack Developer                       | Local Business | React.js · HTML5 · TypeScript · Cascading Style Sheets (CSS) · Express.js · React Native · Redux.js · PostgreSQL · Microsoft Visual Studio Code · Git                                                                                                                                  | 2019 - 2022          |
-| Full Stack Web Developer and Tech Support | UCY Mexico     | HTML · CSS · JS · Wordpress · Microsoft Office Suite · Tech Support · Hardware · Linux Ubuntu · mySQL · Python                                                                                                                                                                         | 2015 - 2017          |
-| Database Administrator                    | Xerox          | Linux Ubuntu Server · mySQL · CVS · HTML · CSS · JS · Wordpress                                                                                                                                                                                                                        | 2013 - 2014          |
+| Job Position               | Company                       | Tech Stack                                                                                                                    | Work Period               |
+| -------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| **Frontend Developer**     | **Cognits**                   | **Astro · React.js · Sanity CMS · Next.js · SCSS Modules · TailwindCSS · Node.js · Git · Jira · Vercel · Google Tag Manager** | **Sep 2024 - Present**    |
+| **Frontend Developer**     | **Softtek**                   | **Next.js · Node.js · Redux Toolkit · Material-UI · Azure DevOps · Git · Jira · Agile Methodologies**                         | **June 2023 - June 2024** |
+| **Frontend Developer**     | **Softtek**                   | **Next.js · Commerce Tools · Google Tag Manager · Styled Components · Contentful · AWS · Vercel**                             | **Sep 2022 - Dec 2023**   |
+| **Full Stack Developer**   | **Proseco**                   | **React.js · GSAP · Three.js · Redux · SQL Server**                                                                           | **June 2021 - Sep 2023**  |
+| **Full Stack Developer**   | **App del Valle**             | **React Native · Node.js · Firebase · Metro · Jest**                                                                          | **Jan 2020 - Nov 2022**   |
+| **Full Stack Developer**   | **Proconson & Other Clients** | **React.js · SCSS · Jekyll · SQL**                                                                                            | **Nov 2019 - May 2022**   |
+| **Full Stack Developer**   | **UCY Mexico**                | **jQuery · HTML · CSS · MySQL · Ubuntu Server · Bash**                                                                        | **Jan 2015 - Sep 2017**   |
+| **Database Administrator** | **ACS Xerox**                 | **MySQL · CSV · PHP · jQuery · HTML · CSS**                                                                                   | **Sep 2013 - Jan 2015**   |
 
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/hneudert/)
+More about my work experience on [LinkedIn](https://www.linkedin.com/in/hneudert/)
 
