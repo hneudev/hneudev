@@ -1,109 +1,130 @@
+# HÉCTOR FRANCISCO NEUDERT ROCHA
 
-# HECTOR FRANCISCO NEUDERT ROCHA
-### Front-End Engineer
-
-**Email:** hneudev@gmail.com  
-**Phone:** +52 662-124-9773  
-**Portfolio:** [hneu.dev](https://www.hneu.dev)  
-**GitHub:** [github.com/hneudev](https://github.com/hneudev)  
-**LinkedIn:** [linkedin.com/in/hneudert](https://www.linkedin.com/in/hneudert)
+**Title:** Senior Frontend Web Developer – React · Next.js · TypeScript · Full-Stack Development 
+**Location:** Hermosillo, Sonora, México 
+**Contact:** +52 662 141 9209 | hneudev@gmail.com | [LinkedIn/in/hneudert](https://www.linkedin.com/in/hneudert) | [Portfolio: hneu.dev](https://www.hneu.dev)
 
 ---
 
-## Summary
-Front-End Engineer with 5+ years of experience designing and developing scalable, high-performance web applications using **React**, **Next.js**, and modern JavaScript frameworks. Skilled in **TypeScript**, **UI performance optimization**, and **headless CMS integration** (Contentful, Sanity). Strong understanding of responsive design, accessibility, and SEO best practices. Adept at collaborating with cross-functional teams to deliver user-centric digital experiences that align with business goals.
+## PROFESSIONAL SUMMARY
+
+Results-driven **Senior Frontend Developer** with **5+ years of React experience** and a strong **Full-Stack** foundation. Skilled in building high-performance, scalable web applications using **Next.js**, **TypeScript**, and modern UI frameworks. Experienced in **UI performance optimization**, **headless CMS integration** (Sanity, Contentful), and **AI-assisted development** (Copilot, Claude). Adept at translating complex business goals into intuitive, user-centric digital products. Seeking a senior-level frontend role focused on the **React/Next.js ecosystem**.
 
 ---
 
-## Professional Experience
+## TECHNICAL EXPERTISE
 
-### Front-End Developer | DocDigitales  
-*09/2025 – Present* | *Hermosillo, Mexico*  
-- Contributed to the front-end development of the company’s internal **CRM module**, enhancing digital operations and client management efficiency.  
-- Implemented responsive and high-performance **user interfaces** using **Next.js**, **React**, and **TailwindCSS**.  
-- Applied **AI-assisted coding tools** such as **Copilot** and **Claude** to accelerate feature delivery, reduce repetitive tasks, and maintain clean, consistent code.   
-**Tech Stack:** Next.js, React, TailwindCSS, TypeScript, Git, Copilot, Claude, Codex
-
-### Front-End Developer | AGN Agency  
-*01/2024 – 08/2025* | *Hermosillo, Mexico*  
-- Developed and deployed **five e-commerce websites** and **four commercial landing pages** for diverse clients across retail and services.  
-- Built and customized **WordPress** and **Shopify** front-ends, translating brand guidelines into responsive and engaging user experiences.  
-- Utilized **Elementor**, **WordPress CMS**, and **PHP** to create scalable, **SEO-optimized** sites with fast load times and intuitive navigation.  
-- Enhanced content management workflows through **CMS automation** and custom plugin development.  
-- Used **AI-assisted tools** (**Copilot**, **Claude**, **Codex**) to streamline development and improve delivery consistency.  
-**Tech Stack:** PHP, WordPress, Elementor, Shopify, HTML5, CSS3, Copilot, Claude, Codex
-
-### Front-End Developer | Cognits  
-*09/2024 – 02/2025* | *Hermosillo, Mexico*  
-- Developed a headless CMS website for an international fintech client with multilingual and SEO-optimized architecture.  
-- Built reusable **React** components and implemented server-side rendering using **Astro JS**, improving load speed by 30%.  
-- Integrated **Google Tag Manager** for analytics tracking and performance measurement.  
-**Tech Stack:** React, Astro, TailwindCSS, Node.js, Sanity CMS, AWS S3, GTM, Figma
-
-### Front-End Developer | Softtek  
-*09/2022 – 06/2024* | *Hermosillo, Mexico*  
-- Developed and maintained an enterprise-level **e-commerce** platform supporting multiple regions and languages.  
-- Created reusable front-end components and integrated APIs for products, checkout, and regional management.  
-- Implemented **headless CMS** architecture (Contentful) to empower marketing teams with dynamic content control.  
-- Built a custom **MRP web application** using **Next.js** and **Material UI**, improving production planning accuracy.  
-- Reduced technical debt by 90%, improving performance and maintainability across codebases.  
-**Tech Stack:** React, Next.js, TypeScript, Redux, GraphQL, Node.js, AWS, Material UI, Styled Components, GTM
-
-### Full Stack Developer | Prosecco  
-*06/2021 – 09/2023* | *Hermosillo, Mexico*  
-- Designed and launched a **Single Page Application** showcasing 3D architectural renders using **Three.js** and **GSAP**.  
-- Developed the backend with **Express.js** and **MongoDB** to support user data and media assets.  
-- Achieved 10,000+ active users within three months of release through UX optimization and responsive design.  
-**Tech Stack:** React, Three.js, GSAP, Node.js, Express.js, MongoDB
-
-### Full Stack Developer | App del Valle  
-*01/2020 – 11/2022* | *Hermosillo, Mexico*  
-- Developed a cross-platform **bartering app** using **React Native**, **Java backend**, and **MySQL**.  
-- Created modular UI components and real-time forms for user interactions.  
-- Deployed on **Firebase**, enabling over 1,000 successful exchanges in the first year.  
-**Tech Stack:** React Native, Java, MySQL, Firebase
-
-### Full Stack Developer | Proconson  
-*11/2019 – 05/2022* | *Hermosillo, Mexico*  
-- Built and maintained multiple client-facing **SPAs** with **React** and **WordPress**, focusing on UX, accessibility, and SEO.  
-- Enhanced front-end performance and improved client visibility across digital channels.  
-**Tech Stack:** React, WordPress, CSS3, MySQL, Jekyll
-
-### Full Stack Developer | UCY Mexico  
-*01/2019 – 05/2019* | *Arandas, Mexico*  
-- Designed and optimized **SQL Server** databases and developed an internal intranet for document sharing.  
-- Supported company digital communication channels and workflow automation.  
-**Tech Stack:** HTML, CSS, JavaScript, SQL Server
-
-### Database Administrator | ACS Xerox  
-*11/2018 – 12/2019* | *Arandas, Mexico*  
-- Managed **MySQL** databases for sales systems and automated reporting processes.  
-- Developed scripts for data import and validation using **JavaScript** and **PHP**.  
-**Tech Stack:** MySQL, JavaScript, PHP, jQuery, HTML, CSS
+| Category | Topics |
+| :--- | :--- |
+| **Frontend Stack** | **React**, **Next.js**, **TypeScript**, JavaScript (ES6+), Redux, Material UI, **TailwindCSS**, SCSS/SASS, Astro, Three.js, GSAP |
+| **Backend/Data** | **Full Stack**, **Node.js** (Express), Redis, Java, **SQL Server**, **MySQL**, MongoDB, Firebase, Database Administration |
+| **DevOps/Tools** | Git, GitHub, **Agile/Scrum**, CI/CD, Google Tag Manager (GTM), AI-Assisted Coding, Performance Optimization, SEO |
+| **Enterprise Solutions** | **Headless CMS** (Contentful, Sanity), **E-commerce** (commercetools, Shopify), WordPress, Elementor |
+| **Additional Tools** | Figma, Jira, Azure DevOps, AWS, Vercel, Responsive Design, Accessibility |
 
 ---
 
-## Technical Skills
+## PROFESSIONAL EXPERIENCE
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
-**Frameworks:** React, Next.js, Node.js, Express.js, React Native  
-**UI/UX:** TailwindCSS, Material UI, Figma, Styled Components  
-**Tools:** AWS, Firebase, Git, Docker, Jest  
-**Other:** SEO Optimization, Headless CMS (Contentful, Sanity), Responsive Design, Cross-Browser Compatibility, Agile, Scrum, API Integration, Microservices Architecture, MongoDB, MySQL, Python, C#, Bash
+### 1. Frontend Developer (Contract) | DocDigitales 
+*Hermosillo, Sonora, Mexico | Short-term Contract | September 2025 – October 2025* - Contributed to the front-end development of the company’s internal **CRM module**, enhancing digital operations and client management workflows. 
+- Engineered responsive, high-performance **user interfaces** using **Next.js**, **React**, and **TailwindCSS**. 
+- Applied **AI-assisted coding tools** (**Copilot**, **Claude**) to accelerate feature delivery and maintain a clean, consistent codebase. 
 
----
-
-## Soft Skills
-Collaborative, Adaptable, Analytical Thinker, Detail-Oriented, Proactive, Data-Driven, Strong Communicator, Curious, Leadership and Mentorship Experience
+**Tech Stack:** Next.js, React, TailwindCSS, TypeScript, Git, Copilot, Claude, Codex 
 
 ---
 
-## Languages
-**English:** Advanced (C1 Level - EFSET CEFR)  
-**Spanish:** Native (Mexican Spanish)
+### 2. Frontend Developer | AGDesign 
+*Hermosillo, Sonora, Mexico | February 2025 – August 2025* - Developed and deployed **five e-commerce websites** and **four commercial landing pages**, addressing diverse business requirements across retail and services. 
+- Customized **WordPress** and **Shopify** front-ends to align with client branding and responsive design standards. 
+- Optimized site structure and performance using **Elementor** and **PHP**, creating **SEO-optimized**, scalable content platforms. 
+- Improved client site visibility through structured metadata, optimized assets, and CMS automation. 
+- Leveraged **AI-assisted tools** (**Copilot**, **Claude**, **Codex**) to streamline development and enhance code quality. 
+
+**Tech Stack:** PHP, WordPress, Elementor, Shopify, HTML5, CSS3, Copilot, Claude, Codex 
 
 ---
 
-## Education
-**Bachelor’s Degree in Industrial Engineering and Systems**  
-Universidad de Sonora (2003 – 2008)
+### 3. Frontend Web Developer | Cognits 
+*Austin, Texas, USA | August 2024 – January 2025* - Architected a multilingual, **SEO-optimized** fintech website utilizing a **headless CMS** architecture. 
+- Improved load speed by **30%** through server-side rendering (**Astro JS**) and reusable **React** components. 
+- Managed data migration from **Contentful** to **Sanity CMS**, ensuring integrity and scalability. 
+- Ensured code robustness and type safety through **TypeScript**, and implemented modular SCSS styling for maintainable UI systems. 
+
+**Tech Stack:** Astro, React, Next.js, Sanity CMS, TypeScript, SCSS, Node.js, GTM, Figma 
+
+---
+
+### 4. Frontend Web Developer (MRP Project) | Softtek 
+*Hermosillo, Sonora, Mexico | June 2023 – May 2024* - Built a critical enterprise **MRP web application** for concrete pipe production planning using **Next.js**, **Material UI**, and **TypeScript**. 
+- Designed dynamic forms, interactive dashboards, and integrated client/server-side components. 
+- Collaborated using **Agile** methodologies with a focus on performance, UX, and data accuracy. 
+
+**Tech Stack:** Next.js, Material UI, TypeScript, Node.js, Redux, GraphQL, Git, Agile 
+
+---
+
+### 5. Full Stack Developer (E-commerce) | Softtek 
+*Ensenada, Baja California, Mexico | September 2022 – May 2023* - Developed and maintained a multi-region **e-commerce** platform using **React** and **Next.js**. 
+- Integrated key third-party services like **commercetools** and **Stripe** for products and checkout. 
+- Reduced technical debt by **90%**, boosting maintainability and performance. 
+- Integrated **Contentful CMS** and **Google Tag Manager** for dynamic marketing and analytics tracking. 
+
+**Tech Stack:** React, Next.js, Node.js, Redux, Contentful, Stripe API, GTM, AWS 
+
+---
+
+### 6. Full Stack Developer | Proseco 
+*Hermosillo, Sonora, Mexico | June 2021 – December 2023* - Designed and launched a **Single Page Application** featuring **3D architectural renders** with **Three.js** and **GSAP**. 
+- Built a scalable backend using **Express.js** and **MongoDB**, supporting high traffic volumes. 
+- Scaled the application to achieve **10,000+ active users** within three months post-launch. 
+
+**Tech Stack:** React, Three.js, GSAP, Node.js, Express.js, MongoDB 
+
+---
+
+### 7. Full Stack Developer | App del Valle 
+*Hermosillo, Sonora, Mexico | January 2020 – November 2022* - Developed a cross-platform **bartering app** using **React Native**, **Java backend**, and **MySQL**. 
+- Designed reusable UI components and integrated database-driven features. 
+- Deployed on **Firebase**, supporting over **1,000 successful exchanges** in its first year. 
+
+**Tech Stack:** React Native, Java, MySQL, Firebase 
+
+---
+
+### 8. Full Stack Developer | Proconson 
+*Hermosillo, Sonora, Mexico | November 2019 – May 2022* - Built and maintained custom **SPAs** for various clients using **React** and **WordPress**. 
+- Enhanced front-end performance and SEO across all client platforms. 
+
+**Tech Stack:** React, WordPress, CSS3, MySQL, Jekyll 
+
+---
+
+### 9. Full Stack Developer | UCY Mexico 
+*Arandas, Jalisco, Mexico | January 2019 – May 2019* - Designed and optimized **SQL Server** databases and developed an intranet site for internal documentation and file sharing. 
+- Supported the company’s social media and internal automation systems. 
+
+**Tech Stack:** HTML, CSS, JavaScript, SQL Server 
+
+---
+
+### 10. Database Administrator | ACS Xerox 
+*Arandas, Jalisco, Mexico | November 2018 – December 2019* - Managed **MySQL** databases and automated reporting systems for software sales tracking. 
+- Developed scripts for data imports and validation using **JavaScript** and **PHP**. 
+
+**Tech Stack:** MySQL, JavaScript, PHP, jQuery, HTML, CSS 
+
+---
+
+## EDUCATION
+
+**B.S. in Industrial Engineering and Systems** — Universidad de Sonora (2003 – 2012) 
+**Full-Stack Web Developer Certification** — Academlo, Academia de Ciencias de la Computación e Informática 
+
+---
+
+## LANGUAGES & SOFT SKILLS
+
+**Languages:** English (C1 - Full Professional Proficiency), Spanish (Native/Bilingual) 
+**Soft Skills:** Collaboration, Analytical Thinking, Attention to Detail, Proactive Mindset, Curiosity, Leadership, Mentoring
