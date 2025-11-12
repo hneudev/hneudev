@@ -65,16 +65,18 @@ echo "Do check my website https://www.hneu.dev for more info"
 
 ### Work experience 👔
 
-| Job Position               | Company                       | Tech Stack                                                                                                                    | Work Period               |
-| -------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| **Frontend Developer**     | **Cognits**                   | **Astro · React.js · Sanity CMS · Next.js · SCSS Modules · TailwindCSS · Node.js · Git · Jira · Vercel · Google Tag Manager** | **Sep 2024 - Present**    |
-| **Frontend Developer**     | **Softtek**                   | **Next.js · Node.js · Redux Toolkit · Material-UI · Azure DevOps · Git · Jira · Agile Methodologies**                         | **June 2023 - June 2024** |
-| **Frontend Developer**     | **Softtek**                   | **Next.js · Commerce Tools · Google Tag Manager · Styled Components · Contentful · AWS · Vercel**                             | **Sep 2022 - Dec 2023**   |
-| **Full Stack Developer**   | **Proseco**                   | **React.js · GSAP · Three.js · Redux · SQL Server**                                                                           | **June 2021 - Sep 2023**  |
-| **Full Stack Developer**   | **App del Valle**             | **React Native · Node.js · Firebase · Metro · Jest**                                                                          | **Jan 2020 - Nov 2022**   |
-| **Full Stack Developer**   | **Proconson & Other Clients** | **React.js · SCSS · Jekyll · SQL**                                                                                            | **Nov 2019 - May 2022**   |
-| **Full Stack Developer**   | **UCY Mexico**                | **jQuery · HTML · CSS · MySQL · Ubuntu Server · Bash**                                                                        | **Jan 2015 - Sep 2017**   |
-| **Database Administrator** | **ACS Xerox**                 | **MySQL · CSV · PHP · jQuery · HTML · CSS**                                                                                   | **Sep 2013 - Jan 2015**   |
+| Job Position | Company | Tech Stack | Work Period |
+| :--- | :--- | :--- | :--- |
+| **Frontend Developer (Contract)** | **DocDigitales** | **Next.js · React · TailwindCSS · TypeScript · Git · Copilot · Claude · Codex** | **Sep 2025 - Oct 2025** |
+| **Frontend Developer** | **AGDesign** | **PHP · WordPress · Elementor · Shopify · HTML5 · CSS3 · Copilot · Claude · Codex** | **Feb 2025 - Aug 2025** |
+| **Frontend Web Developer** | **Cognits** | **Astro · React · Next.js · Sanity CMS · TypeScript · SCSS · Node.js · GTM · Figma** | **Aug 2024 - Jan 2025** |
+| **Frontend Web Developer (MRP Project)** | **Softtek** | **Next.js · Material UI · TypeScript · Node.js · Redux · GraphQL · Git · Agile** | **June 2023 - May 2024** |
+| **Full Stack Developer (E-commerce)** | **Softtek** | **React · Next.js · Node.js · Redux · Contentful · commercetools · Stripe API · GTM · AWS** | **Sep 2022 - May 2023** |
+| **Full Stack Developer** | **Proseco** | **React · Three.js · GSAP · Node.js · Express.js · MongoDB** | **June 2021 - Dec 2023** |
+| **Full Stack Developer** | **App del Valle** | **React Native · Java · MySQL · Firebase** | **Jan 2020 - Nov 2022** |
+| **Full Stack Developer** | **Proconson** | **React · WordPress · CSS3 · MySQL · Jekyll** | **Nov 2019 - May 2022** |
+| **Full Stack Developer** | **UCY Mexico** | **HTML · CSS · JavaScript · SQL Server** | **Jan 2019 - May 2019** |
+| **Database Administrator** | **ACS Xerox** | **MySQL · JavaScript · PHP · jQuery · HTML · CSS** | **Nov 2018 - Dec 2019** |
 
 More about my work experience on [LinkedIn](https://www.linkedin.com/in/hneudert/)
 
